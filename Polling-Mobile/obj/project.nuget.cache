@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "SaS2UfA8p2R3QfgwKksPHRZkhB3TWMAO2MrQAt/3V7zUdUu5GhI6xGviSDo04Db+q1mrENtxCXKhuy0E7mAliQ==",
+  "success": false,
+  "projectFilePath": "/Users/kevinsheehan/RiderProjects/Polling-Mobile/Polling-Mobile/Polling-Mobile.csproj",
+  "expectedPackageFiles": [
+    "/Users/kevinsheehan/.nuget/packages/microsoft.netcore.app.ref/7.0.19/microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.19/microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/microsoft.netcore.app.ref/7.0.19/microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.19/microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.19/microsoft.netcore.app.host.osx-x64.7.0.19.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/microsoft.netcore.app.ref/7.0.19/microsoft.netcore.app.ref.7.0.19.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.19/microsoft.aspnetcore.app.ref.7.0.19.nupkg.sha512",
+    "/Users/kevinsheehan/.nuget/packages/microsoft.netcore.app.host.osx-x64/7.0.19/microsoft.netcore.app.host.osx-x64.7.0.19.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1012",
+      "level": "Error",
+      "message": "Platform version is not present for one or more target frameworks, even though they have specified a platform: net7.0-ios, net7.0-maccatalyst"
+    }
+  ]
+}
