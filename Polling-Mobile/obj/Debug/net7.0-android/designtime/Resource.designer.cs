@@ -160,16 +160,10 @@ namespace Polling_Mobile
 		{
 			
 			// aapt resource value: 0x7F040000
-			public const int dotnet_bot = 2130968576;
+			public const int maui_splash = 2130968576;
 			
 			// aapt resource value: 0x7F040001
-			public const int maui_splash = 2130968577;
-			
-			// aapt resource value: 0x7F040002
-			public const int maui_splash_image = 2130968578;
-			
-			// aapt resource value: 0x7F040003
-			public const int splash = 2130968579;
+			public const int maui_splash_image = 2130968577;
 			
 			static Drawable()
 			{
@@ -258,39 +252,14 @@ namespace Polling_Mobile
 			}
 		}
 		
-		public partial class Mipmap
-		{
-			
-			// aapt resource value: 0x7F070000
-			public const int appicon = 2131165184;
-			
-			// aapt resource value: 0x7F070001
-			public const int appicon_background = 2131165185;
-			
-			// aapt resource value: 0x7F070002
-			public const int appicon_foreground = 2131165186;
-			
-			// aapt resource value: 0x7F070003
-			public const int appicon_round = 2131165187;
-			
-			static Mipmap()
-			{
-				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
-			}
-			
-			private Mipmap()
-			{
-			}
-		}
-		
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F080000
-			public const int maui_empty_unused = 2131230720;
+			// aapt resource value: 0x7F070000
+			public const int maui_empty_unused = 2131165184;
 			
-			// aapt resource value: 0x7F080001
-			public const int overflow_tab_title = 2131230721;
+			// aapt resource value: 0x7F070001
+			public const int overflow_tab_title = 2131165185;
 			
 			static String()
 			{
@@ -305,47 +274,47 @@ namespace Polling_Mobile
 		public partial class Style
 		{
 			
-			// aapt resource value: 0x7F090000
-			public const int ActionMode = 2131296256;
+			// aapt resource value: 0x7F080000
+			public const int ActionMode = 2131230720;
 			
-			// aapt resource value: 0x7F090001
-			public const int AppTheme = 2131296257;
+			// aapt resource value: 0x7F080001
+			public const int AppTheme = 2131230721;
 			
-			// aapt resource value: 0x7F090002
-			public const int AppTheme_NoActionBar = 2131296258;
+			// aapt resource value: 0x7F080002
+			public const int AppTheme_NoActionBar = 2131230722;
 			
-			// aapt resource value: 0x7F09000B
-			public const int collectionViewTheme = 2131296267;
+			// aapt resource value: 0x7F08000B
+			public const int collectionViewTheme = 2131230731;
 			
-			// aapt resource value: 0x7F090003
-			public const int MainTheme = 2131296259;
+			// aapt resource value: 0x7F080003
+			public const int MainTheme = 2131230723;
 			
-			// aapt resource value: 0x7F090004
-			public const int MainTheme_Base = 2131296260;
+			// aapt resource value: 0x7F080004
+			public const int MainTheme_Base = 2131230724;
 			
-			// aapt resource value: 0x7F090005
-			public const int MainTheme_NoActionBar = 2131296261;
+			// aapt resource value: 0x7F080005
+			public const int MainTheme_NoActionBar = 2131230725;
 			
-			// aapt resource value: 0x7F090006
-			public const int MauiCheckBox = 2131296262;
+			// aapt resource value: 0x7F080006
+			public const int MauiCheckBox = 2131230726;
 			
-			// aapt resource value: 0x7F090007
-			public const int MauiMaterialButton = 2131296263;
+			// aapt resource value: 0x7F080007
+			public const int MauiMaterialButton = 2131230727;
 			
-			// aapt resource value: 0x7F090008
-			public const int Maui_MainTheme = 2131296264;
+			// aapt resource value: 0x7F080008
+			public const int Maui_MainTheme = 2131230728;
 			
-			// aapt resource value: 0x7F090009
-			public const int Maui_MainTheme_NoActionBar = 2131296265;
+			// aapt resource value: 0x7F080009
+			public const int Maui_MainTheme_NoActionBar = 2131230729;
 			
-			// aapt resource value: 0x7F09000A
-			public const int Maui_SplashTheme = 2131296266;
+			// aapt resource value: 0x7F08000A
+			public const int Maui_SplashTheme = 2131230730;
 			
-			// aapt resource value: 0x7F09000C
-			public const int scrollViewScrollBars = 2131296268;
+			// aapt resource value: 0x7F08000C
+			public const int scrollViewScrollBars = 2131230732;
 			
-			// aapt resource value: 0x7F09000D
-			public const int scrollViewTheme = 2131296269;
+			// aapt resource value: 0x7F08000D
+			public const int scrollViewTheme = 2131230733;
 			
 			static Style()
 			{
@@ -387,8 +356,8 @@ namespace Polling_Mobile
 		public partial class Xml
 		{
 			
-			// aapt resource value: 0x7F0B0000
-			public const int microsoft_maui_essentials_fileprovider_file_paths = 2131427328;
+			// aapt resource value: 0x7F0A0000
+			public const int microsoft_maui_essentials_fileprovider_file_paths = 2131361792;
 			
 			static Xml()
 			{
